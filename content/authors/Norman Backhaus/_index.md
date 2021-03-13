@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Gvantsa Salukvadze
+title: Norman Backhaus
 
 # Username (this should match the folder name)
 authors:
-- 吳恩達
+- Norman Backhaus
 
 # Is this the primary user of the site?
 superuser: false
