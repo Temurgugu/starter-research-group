@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳恩達
+title: Gvantsa Salukvadze
 
 # Username (this should match the folder name)
 authors:
