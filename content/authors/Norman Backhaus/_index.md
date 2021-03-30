@@ -27,9 +27,9 @@ bio: I am a professor for Human Geography at the Department of Geography of the 
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: fa-address-card
+- icon: address-card
   icon_pack: far
-  link: https://www.normanbackhaus.ch/
+  link: 'https://www.normanbackhaus.ch/'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Norman-Backhaus
