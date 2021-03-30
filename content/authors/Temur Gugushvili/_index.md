@@ -21,9 +21,9 @@ bio: I believe that the researcher’s primary role is to explore hitherto hidde
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:temur.gugushvili155@sps.tsu.edu.ge'
+- icon: address-card
+  icon_pack: far
+  link: 'https://temurgugushvili.ge/'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Temur_Gugushvili2
