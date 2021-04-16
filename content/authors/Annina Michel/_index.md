@@ -51,6 +51,8 @@ user_groups:
 ---
 
 I am a conservation social scientist interested in social and political dimensions of protected areas and landscape planning. With a research focus in Switzerland, I engage with questions of equity and justice in environmental negotiations and participatory processes and how these are intertwined with and influenced by social values. 
+
 Currently, I am part of the research project [ValPar.CH](https://valpar.ch/index_de.php). Here, we want to better understand different stakeholders perceptions of landscapes and landscape elements and the meanings attributed to them. By unravelling these meanings, we will gain insight into the social values of different ecosystem services in Swiss regional nature parks. 
+
 Generally, I am interested in human-nature relationships: How do we speak about and engage with our surroundings, and how do we shape and interact with what we call 'nature'?
 
