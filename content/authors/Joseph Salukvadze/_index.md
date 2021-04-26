@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor, Head of the Department of Human Geography
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,7 @@ bio: I am a professor at Tbilisi State University's (TSU) Department of Human Ge
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: address-card
   icon_pack: far
