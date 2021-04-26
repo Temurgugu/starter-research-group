@@ -46,7 +46,7 @@ user_groups:
 - Lecturers
 ---
 
-I am a social scientist who studies socioeconomic transitions in mountain regions as a result of global change. I'm curious about the role that tourism progress plays in transforming places and traditional livelihoods. I apply inter- and transdisciplinary methods to investigate these complex phenomena by leaving no stakeholder behind. 
+I am a social scientist who studies socioeconomic transitions in mountain regions as a result of global change. I'm curious about the role that tourism progress plays in transforming places and traditional livelihoods. I apply inter and transdisciplinary methods to investigate these complex phenomena by leaving no stakeholder behind. 
 
 As a PhD Candidate, I am currently attempting to broaden established knowledge by investigating various mountain economic activities under the umbrella of the tourism supply chain and its geographical context. On this basis, I call into question the local economy's long-term viability by putting its reliance solely on tourism in Georgia's mountains.
 
