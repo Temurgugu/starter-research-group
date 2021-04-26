@@ -28,13 +28,13 @@ bio: I am a professor at Tbilisi State University's (TSU) Department of Human Ge
 social:
 - icon: address-card
   icon_pack: far
-  link: 'https://www.caucasus-mt.net/People/1183'
+  link: 'https://www.caucasus-mt.net/person/157'
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Gvantsa-Salukvadze
+  link: https://www.researchgate.net/profile/Joseph-Salukvadze
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=KP-aQeYAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=knUVF8sAAAAJ&hl=en
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
