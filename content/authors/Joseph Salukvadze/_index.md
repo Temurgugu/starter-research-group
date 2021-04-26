@@ -10,38 +10,31 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor, Head of the Department of Human Geography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Ivane Javakhishvili Tbilisi State University
+  url: "https://www.tsu.ge/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a professor at Tbilisi State University's (TSU) Department of Human Geography, Faculty of Social and Political Sciences, and a visiting professor at the Technical University of Munich (since 2002).
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: address-card
+  icon_pack: far
+  link: ''
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Joseph-Salukvadze
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://scholar.google.com/citations?user=knUVF8sAAAAJ&hl=en
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -52,6 +45,7 @@ user_groups:
 - Lecturers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a professor at Tbilisi State University's (TSU) Department of Human Geography, Faculty of Social and Political Sciences, and a visiting professor at the Technical University of Munich (since 2002). In 1991-92, I was a Swedish Institute research fellow at the universities of Stockholm and Lund, and in 1998-99, I was a Fulbright scholar at the Massachusetts Institute of Technology (MIT) in the United States.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I served as vice-rector of TSU from 2014 to 2017 and as vice-president of the Geographic Society of Georgia from 2008 to 2016. I am also a member of the Network of the Caucasus Mountain Region's scientific steering committee. As a land policy specialist, I perform comprehensive research and collaborate with the World Bank, Asian Development Bank, UN-Habitat, UN Food, and Agriculture Organization (FAO), and other international organizations such as KfW, GIZ, and USAID. I am a member of the editorial boards of three international scientific journals, the author and editor of three books, and the author of over fifty publications. My Research interests include urban studies, housing, and land policy, and sustainable mountain development.
+
