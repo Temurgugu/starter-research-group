@@ -18,7 +18,7 @@ organizations:
   url: "https://www.tsu.ge/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a social scientist who studies socioeconomic transitions in mountain regions as a result of global change.
+bio: I am a professor at Tbilisi State University's (TSU) Department of Human Geography, Faculty of Social and Political Sciences, and a visiting professor at the Technical University of Munich (since 2002).
 
 
 # Social/Academic Networking
@@ -46,7 +46,8 @@ user_groups:
 - Lecturers
 ---
 
-I am a social scientist who studies socioeconomic transitions in mountain regions as a result of global change. I'm curious about the role that tourism progress plays in transforming places and traditional livelihoods. I apply inter and transdisciplinary methods to investigate these complex phenomena by leaving no stakeholder behind. 
+I am a professor at Tbilisi State University's (TSU) Department of Human Geography, Faculty of Social and Political Sciences, and a visiting professor at the Technical University of Munich (since 2002). In 1991-92, I was a Swedish Institute research fellow at the universities of Stockholm and Lund, and in 1998-99, I was a Fulbright scholar at the Massachusetts Institute of Technology (MIT) in the United States.
 
-As a PhD Candidate, I am currently attempting to broaden established knowledge by investigating various mountain economic activities under the umbrella of the tourism supply chain and its geographical context. On this basis, I call into question the local economy's long-term viability by putting its reliance solely on tourism in Georgia's mountains.
+I served as vice-rector of TSU from 2014 to 2017 and as vice-president of the Geographic Society of Georgia from 2008 to 2016. I am also a member of the Network of the Caucasus Mountain Region's scientific steering committee. As a land policy specialist, I perform comprehensive research and collaborate with the World Bank, Asian Development Bank, UN-Habitat, UN Food, and Agriculture Organization (FAO), and other international organizations such as KfW, GIZ, and USAID. I am a member of the editorial boards of three international scientific journals, the author and editor of three books, and the author of over fifty publications. My Research interests include urban studies, housing, and land policy, and sustainable mountain development.
+
 
