@@ -18,10 +18,9 @@ subtitle = ""
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
  [[feature]]
-  icon = "partners/snc"
+  icon = "snc"
   icon_pack = "custom"
   name = "SNddC"
   description = "90%"
-  url = "https://plato.stanford.edu/"
 
 +++
