@@ -21,6 +21,6 @@ subtitle = ""
   icon = "snc"
   icon_pack = "custom"
   name = "SNddC"
-  description = "90%"
+
 
 +++
