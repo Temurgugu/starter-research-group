@@ -17,6 +17,11 @@
   name = "Team"
   url = "people"
   weight = 30
+  
+[[main]]
+  name = "Partners"
+  url = "partners"
+  weight = 30
 
 [[main]]
   name = "Contact"
