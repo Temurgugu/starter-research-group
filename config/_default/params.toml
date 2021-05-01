@@ -16,13 +16,13 @@
 theme = "Ocean"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-font = "native"
+font = "Minimal"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -74,7 +74,7 @@ diagram = false
 privacy_pack = false
 
 # Show related content at the bottom of pages?
-show_related = {post = true, project = true, publication = true, talk = true}
+show_related = {post = true, project = true}
 
 ############################
 ## Contact details
@@ -133,7 +133,7 @@ twitter = ""
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
