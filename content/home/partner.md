@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Switzerland"
-    tag = "switzerland"
+    name = "Hosted by"
+    tag = "Hosted"
   
   [[content.filter_button]]
-    name = "Georgia"
-    tag = "georgia"
+    name = "Supported by"
+    tag = "supported"
 
   [[content.filter_button]]
-    name = "International"
-    tag = "international"
+    name = "In cooperation with"
+    tag = "cooperation"
  
 
 [design]

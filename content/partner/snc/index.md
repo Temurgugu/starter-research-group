@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: 
 tags:
-- international
+- cooperation
 title: Scientific Network for Caucasus Mountain Regions (SNC-mt)
 ---
