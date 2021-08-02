@@ -18,7 +18,7 @@
  
 [[main]]  
   name = "Sustainable Mountain Development"
-  url = "course/example/"
+  url = "course/smd/"
   weight = 10
   parent = "courses"
 
