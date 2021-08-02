@@ -1,5 +1,5 @@
 ---
-title: 📊 Sustainable Mountain Development (SMD)
+title: ⛰️ Sustainable Mountain Development (SMD)
 linkTitle: Sustainable Mountain Development
 summary: An example of using  courses.
 date: '2021-01-24'
