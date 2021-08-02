@@ -20,12 +20,12 @@ cta:
 design:
   columns: "1"
   background:
-    image: welcome.png
+    image: welcome.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
     image_size: cover
-    text_color_black : TURE
+    text_color_light : TURE
 spacing:
 padding: ["20px", "0", "20px", "0"]
 
