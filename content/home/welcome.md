@@ -11,7 +11,7 @@ subtitle: ""
 hero_media: 
 
 cta:
-  url: 'http://localhost:4321/course/smd/'
+  url: 'https://sustainablemountain.netlify.app/course/smd/'
   label: Get Started
   icon_pack: fas
   icon: mountain
