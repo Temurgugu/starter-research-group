@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: 
 tags:
-- Hosted
+- supported
 title: Swiss Leading House for Science and Technology Cooperation, University of Geneva
 ---
