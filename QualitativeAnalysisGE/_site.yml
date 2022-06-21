@@ -1,0 +1,13 @@
+name: "translations"
+title: "რესურსები"
+description: |
+  რესურსები
+output_dir: "docs"
+navbar:
+  right:
+    - text: "სტატიები"
+      href: index.html
+    - text: "ჩვენ შესახებ"
+      href: about.html
+output: distill::distill_article
+
